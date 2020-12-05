@@ -15,3 +15,4 @@ I then decided on three simple bar graphs. Two for comparing the Math and ELA te
 
 
 ![Graph_1](https://raw.githubusercontent.com/Choliman/PersonalDatasetProject/master/ELA_Standards_Met.jpg) ![Graph_2](https://raw.githubusercontent.com/Choliman/PersonalDatasetProject/master/Math_Standards_Met.jpg)
+![Graph_3](https://raw.githubusercontent.com/Choliman/PersonalDatasetProject/master/Graduation_Rate.jpg)
