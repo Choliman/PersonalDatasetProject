@@ -18,6 +18,6 @@ I then decided on three simple bar graphs. Two for comparing the Math and ELA te
 ![Graph_3](https://raw.githubusercontent.com/Choliman/PersonalDatasetProject/master/Graduation_Rate.jpg)
 
 # Analysis
-After looking over the data, I started to wonder about the correlation between Math and ELA and if there was a pattern for some or all students. This graph shows uniformly for all students, when there is a lack of skill in one area, there tends to be a lack of skills throughout. Additionally, it emphasizes the significant gap between those children in foster care versus those not. This points out the need for a revision in the way public school teaches youth and highlights an even more significant need for revision in order to reach those in foster care. 
+After looking over the data, I started to wonder about the correlation between Math and ELA and if there was a pattern for some or all students. This graph shows uniformly, when there is a lack of skill in one area, there tends to be a lack of skills throughout. Additionally, it emphasizes the significant gap between those children in foster care versus those not. This points out the need for a revision in the way public school teaches youth and highlights an even more significant need for revision in order to reach those in foster care. 
 
 ![CorrGraph](https://raw.githubusercontent.com/Choliman/PersonalDatasetProject/master/CorrelationGraph.png)
