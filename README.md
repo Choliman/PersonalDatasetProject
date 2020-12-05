@@ -13,10 +13,10 @@ There wasn't much processing of the data that needed to be done, it was more of 
 # Visualization
 I then decided on three simple bar graphs. Two for comparing the Math and ELA testing results between those in and out of foster care; followed by a comparison of graduation rates. 
 
-![Graph_1](https://raw.githubusercontent.com/Choliman/PersonalDatasetProject/master/ELA_Standards_Met.jpg) ![Graph_2](https://raw.githubusercontent.com/Choliman/PersonalDatasetProject/master/Math_Standards_Met.jpg)
+![Graph_1](https://raw.githubusercontent.com/Choliman/PersonalDatasetProject/master/ELA_Standards_Met.jpg)![Graph_2](https://raw.githubusercontent.com/Choliman/PersonalDatasetProject/master/Math_Standards_Met.jpg)
 ![Graph_3](https://raw.githubusercontent.com/Choliman/PersonalDatasetProject/master/Graduation_Rate.jpg)
 
 # Analysis
-After looking over the data, I started to wonder about the correlation between math and language arts and if there was a pattern for some or all students. This graph shows uniformly, when there is a lack of skill in one area, there tends to be a lack of skills throughout. Additionally, it emphasizes the significant gap between those children in foster care versus those that are not. This points out the need for a revision in the way public school teaches youth and highlights an even more significant need for revision in order to reach those in foster care. 
+After looking over the data, I started to wonder about the correlation between math and language arts and if there was a pattern for some or all students. This graph shows uniformly, when there is a lack of skill in one area, there tends to be a lack of skills throughout. Secound, we see that the lowest three points for all students are the middle school years and focusing on these first will prove to be helpful and significant. Additionally, it emphasizes the significant gap between those children in foster care versus those that are not. This points out the need for a revision in the way public school teaches youth and highlights an even more significant need for revision in order to reach those in foster care. 
 
 ![CorrGraph](https://raw.githubusercontent.com/Choliman/PersonalDatasetProject/master/CorrelationGraph.png)
