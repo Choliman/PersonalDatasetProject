@@ -13,9 +13,4 @@ There wasn't much processing of the data that needed to be done, it was more of 
 # Visualization
 I then decided on three simple bar graphs. Two for comparing the Math and ELA testing results between those in and out of foster care; followed by a comparison of graduation rates. 
 
-![Math standards met by grade](https://raw.githubusercontent.com/Choliman/PersonalDatasetProject/master/Math_Standards_Met.jpg)
-
-![ELA standards met by grade](https://raw.githubusercontent.com/Choliman/PersonalDatasetProject/master/ELA_Standards_Met.jpg)
-
-![Graduation rates](https://raw.githubusercontent.com/Choliman/PersonalDatasetProject/master/Graduation_Rate.jpg)
 
